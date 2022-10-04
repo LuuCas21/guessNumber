@@ -1,1 +1,2 @@
-# guessNumber
+Jogo 'Adivinhe Meu Número'. Será gerado aleatoriamente no jogo um número e o jogador terá que adivinhar qual número foi gerado. No próprio jogo há um certo tipo de ajuda, quando o jogo avisa que o número escolhido pelo jogador ou foi 'alto demais' Too Low ou 'baixo demais' Too High. 
+A cada erro ou acerto o jogador pode perder ou ganhar pontos. Seu score de início é de 20 pontos, a cada erro o jogador perde 1 ponto e a cada acerto o jogador ganha mais 1 ponto no score e na pontuação máxima highscore. Caso o jogador perca os 20 pontos o jogo será reiniciado novamente desde o início.
